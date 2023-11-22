@@ -223,7 +223,7 @@ import {
         },
       ],
       image: tourTravelHome,
-      source_code_link: "https://github.com/gauravchauhan677/Tour_Travel/tree/main/travelproject",
+      source_code_link: "https://github.com/gauravchauhan677/Tour_Travel",
       website_code_link:"https://tour-travel-theta.vercel.app/",
     },
     {
@@ -313,28 +313,6 @@ import {
       image: gauravPayHome,
       source_code_link: "https://github.com/gauravchauhan677/gaurav_firePay",
       website_code_link:"https://gaurav-fire-pay.vercel.app/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-      website_code_link:"http://manchao-restaurant.vercel.app/",
     },
   ];
   
